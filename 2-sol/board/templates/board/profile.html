@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <h1>Profile</h1>
+    <hr>
+    <div class="row">
+        <div class="col-md-4">
+            <h4>Username:</h4>
+        </div>
+        <div class="col-md-8">
+            <p>{{ user.username }}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <h4>Email:</h4>
+        </div>
+        <div class="col-md-8">
+            <p>{{ user.email }}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <h4>City:</h4>
+        </div>
+        <div class="col-md-8">
+            <p>{{ user.profile.city }}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <h4>Age:</h4>
+        </div>
+        <div class="col-md-8">
+            <p>{{ user.profile.age }}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <h4>Bio:</h4>
+        </div>
+        <div class="col-md-8">
+            <p>{{ user.profile.bio }}</p>
+        </div>
+    </div>
+    <hr>
+    <button class="btn btn-primary" onclick="location.href='{% url 'update_profile' %}'">Edit Profile</button>
+</div>
+{% endblock %}

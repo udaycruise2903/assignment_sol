@@ -1,0 +1,15 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Add App</h1>
+<form method="post">
+    {% csrf_token %}
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name">
+    <br>
+    <br>
+    <label for="description">Description:</label>
+    <textarea id="description" name="description"></textarea>
+    <br>
+    <br>
+    <button type="submit">Submit</button>
+</form>
+{% endblock %}

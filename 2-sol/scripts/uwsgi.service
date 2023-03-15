@@ -1,0 +1,19 @@
+# place this file at /etc/systemd/system/uwsgi.service
+
+[Unit]
+Description=uWSGI instance to serve rewardo project
+After=network.target
+
+[Service]
+User=uday
+Group=webapps
+WorkingDirectory=/webapps/rewardo
+Environment="PATH=/webapps/rewardo/bin"
+ExecStart=/webapps/rewardo/bin/uwsgi --ini /webapps/rewardo/conf/uwsgi.ini
+Restart=always
+KillSignal=SIGQUIT
+Type=notify
+NotifyAccess=all
+
+[Install]
+WantedBy=multi-user.target

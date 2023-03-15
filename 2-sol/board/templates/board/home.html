@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Apps List</h1>
+<p>Welcome, {{ username }}!</p>
+{% if apps %}
+    
+      {% for app in apps %}
+<div class="app">
+    <h5>
+        <a href="{% url 'app_detail' app.id %}">{{ app.name }}</a>
+    </h5>
+    <p>Points: {{ app.points }}</p>
+</div>
+{% endfor %}
+  
+    
+  {% else %}
+<p>No apps available.</p>
+{% endif %}
+{% endblock %}

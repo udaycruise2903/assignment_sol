@@ -1,0 +1,1835 @@
+[
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "App",
+        "importPath": "board.models",
+        "description": "board.models",
+        "isExtraImport": true,
+        "detail": "board.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "board.models",
+        "description": "board.models",
+        "isExtraImport": true,
+        "detail": "board.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubCategory",
+        "importPath": "board.models",
+        "description": "board.models",
+        "isExtraImport": true,
+        "detail": "board.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultAccountAdapter",
+        "importPath": "allauth.account.adapter",
+        "description": "allauth.account.adapter",
+        "isExtraImport": true,
+        "detail": "allauth.account.adapter",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "allauth.account.views",
+        "description": "allauth.account.views",
+        "isExtraImport": true,
+        "detail": "allauth.account.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "allauth.account.views",
+        "description": "allauth.account.views",
+        "isExtraImport": true,
+        "detail": "allauth.account.views",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenVerifyView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "AccessToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminUser",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline_to_binary",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "locale",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "locale",
+        "description": "locale",
+        "detail": "locale",
+        "documentation": {}
+    },
+    {
+        "label": "manpage",
+        "importPath": "docutils.writers",
+        "description": "docutils.writers",
+        "isExtraImport": true,
+        "detail": "docutils.writers",
+        "documentation": {}
+    },
+    {
+        "label": "Writer",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "Reader",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "mkstemp",
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "isExtraImport": true,
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "code",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "code",
+        "description": "code",
+        "detail": "code",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "ssl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ssl",
+        "description": "ssl",
+        "detail": "ssl",
+        "documentation": {}
+    },
+    {
+        "label": "gzip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gzip",
+        "description": "gzip",
+        "detail": "gzip",
+        "documentation": {}
+    },
+    {
+        "label": "zlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zlib",
+        "description": "zlib",
+        "detail": "zlib",
+        "documentation": {}
+    },
+    {
+        "label": "six",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "six",
+        "description": "six",
+        "detail": "six",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "six.moves.urllib.parse",
+        "description": "six.moves.urllib.parse",
+        "isExtraImport": true,
+        "detail": "six.moves.urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "websocket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "websocket",
+        "description": "websocket",
+        "detail": "websocket",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "environ",
+        "description": "environ",
+        "detail": "environ",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "board",
+        "description": "board",
+        "isExtraImport": true,
+        "detail": "board",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "importPath": "board.urls",
+        "description": "board.urls",
+        "isExtraImport": true,
+        "detail": "board.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include_docs_urls",
+        "importPath": "rest_framework.documentation",
+        "description": "rest_framework.documentation",
+        "isExtraImport": true,
+        "detail": "rest_framework.documentation",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE",
+        "importPath": "rewardo.settings",
+        "description": "rewardo.settings",
+        "isExtraImport": true,
+        "detail": "rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "error_string",
+        "kind": 5,
+        "importPath": "1-sol.regex",
+        "description": "1-sol.regex",
+        "peekOfCode": "error_string = {\"orders\": [{\"id\": 1}, {\"id\": 2}, {\"id\": 3}, {\"id\": 4}, {\"id\": 5}, {\"id\": 6}, {\"id\": 7}, {\"id\": 8}, {\"id\": 9}, {\"id\": 10}, {\"id\": 11}, {\"id\": 648}, {\"id\": 649}, {\n    \"id\": 650}, {\"id\": 651}, {\"id\": 652}, {\"id\": 653}], \"errors\": [{\"code\": 3, \"message\": \"[PHP Warning #2] count(): Parameter must be an array or an object that implements Countable (153)\"}]}\npattern = r'([\\d])'\nresult = re.findall(pattern, str(error_string))\nprint(result)\n# if result:\n#     print(\"Search successful.\")\n# else:\n#     print(\"Search unsuccessful.\")",
+        "detail": "1-sol.regex",
+        "documentation": {}
+    },
+    {
+        "label": "pattern",
+        "kind": 5,
+        "importPath": "1-sol.regex",
+        "description": "1-sol.regex",
+        "peekOfCode": "pattern = r'([\\d])'\nresult = re.findall(pattern, str(error_string))\nprint(result)\n# if result:\n#     print(\"Search successful.\")\n# else:\n#     print(\"Search unsuccessful.\")",
+        "detail": "1-sol.regex",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "1-sol.regex",
+        "description": "1-sol.regex",
+        "peekOfCode": "result = re.findall(pattern, str(error_string))\nprint(result)\n# if result:\n#     print(\"Search successful.\")\n# else:\n#     print(\"Search unsuccessful.\")",
+        "detail": "1-sol.regex",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "2-sol.board.migrations.0001_initial",
+        "description": "2-sol.board.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='App',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "2-sol.board.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "2-sol.board.migrations.0002_alter_app_image_alter_screenshot_image",
+        "description": "2-sol.board.migrations.0002_alter_app_image_alter_screenshot_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('board', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='app',\n            name='image',\n            field=models.ImageField(upload_to='media/app_images/'),\n        ),",
+        "detail": "2-sol.board.migrations.0002_alter_app_image_alter_screenshot_image",
+        "documentation": {}
+    },
+    {
+        "label": "BoardConfig",
+        "kind": 6,
+        "importPath": "2-sol.board.apps",
+        "description": "2-sol.board.apps",
+        "peekOfCode": "class BoardConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'board'",
+        "detail": "2-sol.board.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomAccountAdapter",
+        "kind": 6,
+        "importPath": "2-sol.board.authentication",
+        "description": "2-sol.board.authentication",
+        "peekOfCode": "class CustomAccountAdapter(DefaultAccountAdapter):\n    \"\"\"\n    A custom account adapter that inherits from the DefaultAccountAdapter class.\n    \"\"\"\n    def get_login_redirect_url(self, request):\n        \"\"\"\n        redirects the user to home URL upon successful login\n        \"\"\"\n        return reverse_lazy('home')",
+        "detail": "2-sol.board.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "ScreenshotForm",
+        "kind": 6,
+        "importPath": "2-sol.board.forms",
+        "description": "2-sol.board.forms",
+        "peekOfCode": "class ScreenshotForm(forms.ModelForm):\n    \"\"\"\n    Upload a Screenshot\n    \"\"\"\n    class Meta:\n        model = Screenshot\n        fields = ('image',)\n        widgets = {\n            'image': forms.FileInput(attrs={'class': 'form-control-file'}),\n        }",
+        "detail": "2-sol.board.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileUpdateForm",
+        "kind": 6,
+        "importPath": "2-sol.board.forms",
+        "description": "2-sol.board.forms",
+        "peekOfCode": "class ProfileUpdateForm(forms.ModelForm):\n    \"\"\"\n    Update profile of a user\n    \"\"\"\n    class Meta:\n        model = Profile\n        fields = ['age', 'city', 'bio']\n    def __init__(self, *args, **kwargs):\n        super(ProfileUpdateForm, self).__init__(*args, **kwargs)\n        # self.fields['username'].widget.attrs.update({'class': 'form-control'})",
+        "detail": "2-sol.board.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "class Category(models.Model):\n    \"\"\"\n    defines category of apps \n    \"\"\"\n    name = models.CharField(max_length=100)\n    def __str__(self):\n        return self.name\n    class Meta:\n        verbose_name_plural = \"category\"\nclass SubCategory(models.Model):",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubCategory",
+        "kind": 6,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "class SubCategory(models.Model):\n    \"\"\"\n    defines subcategory of apps \n    \"\"\"\n    name = models.CharField(max_length=100)\n    category = models.ForeignKey(Category, on_delete=models.CASCADE)\n    def __str__(self):\n        return self.name\n    class Meta:\n        verbose_name_plural = \"subcategory\"",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "App",
+        "kind": 6,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "class App(models.Model):\n    \"\"\"\n    defines an app with points rewarded \n    \"\"\"\n    name = models.CharField(max_length=100)\n    image = models.ImageField(upload_to='media/app_images/')\n    link = models.URLField()\n    category = models.ForeignKey(Category, on_delete=models.CASCADE)\n    subcategory = models.ForeignKey(SubCategory, on_delete=models.CASCADE)\n    points = models.PositiveIntegerField()",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "class Profile(models.Model):\n    \"\"\"\n    Profile of a user, used built-in User model\n    \"\"\"\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    city = models.CharField(max_length=100, blank=True, null=True)\n    age = models.PositiveIntegerField(blank=True, null=True)\n    bio = models.TextField(blank=True, null=True)\n    def __str__(self):\n        return self.user.username",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "TotalPoints",
+        "kind": 6,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "class TotalPoints(models.Model):\n    \"\"\"\n    defines total points earned by a User, used Profile model\n    \"\"\"\n    profile = models.OneToOneField(Profile, on_delete=models.CASCADE)\n    points = models.PositiveIntegerField(default=0)\n    def __str__(self):\n        return f\"{self.profile.user.username}'s total points\"\nclass Task(models.Model):\n    \"\"\"",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "class Task(models.Model):\n    \"\"\"\n    defines a task that a user can complete to earn points\n    \"\"\"\n    PENDING = 'Pending'\n    COMPLETED = 'Completed'\n    STATUS_CHOICES = [\n        (PENDING, 'Pending'),\n        (COMPLETED, 'Completed'),\n    ]",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "Screenshot",
+        "kind": 6,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "class Screenshot(models.Model):\n    \"\"\"\n    user uploads screenshot as proof of completing the task\n    \"\"\"\n    task = models.ForeignKey(Task, on_delete=models.CASCADE)\n    image = models.ImageField(upload_to='media/task_screenshots/')\n    def save(self, *args, **kwargs):\n        self.task.status = Task.COMPLETED\n        self.task.save()\n        super(Screenshot, self).save(*args, **kwargs)",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_profile",
+        "kind": 2,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "def create_profile(sender, instance, created, **kwargs):\n    \"\"\"\n    creates a new Profile object for each new user object\n    \"\"\"\n    if created:\n        Profile.objects.create(user=instance)\n@receiver(post_save, sender=Profile)\ndef create_total_points(sender, instance, created, **kwargs):\n    \"\"\"\n    creates a TotalPoints object for each new Profile object",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_total_points",
+        "kind": 2,
+        "importPath": "2-sol.board.models",
+        "description": "2-sol.board.models",
+        "peekOfCode": "def create_total_points(sender, instance, created, **kwargs):\n    \"\"\"\n    creates a TotalPoints object for each new Profile object\n    \"\"\"\n    if created:\n        TotalPoints.objects.create(profile=instance)",
+        "detail": "2-sol.board.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminOrReadOnly",
+        "kind": 6,
+        "importPath": "2-sol.board.permissions",
+        "description": "2-sol.board.permissions",
+        "peekOfCode": "class IsAdminOrReadOnly(permissions.BasePermission):\n    \"\"\"\n    Custom permission to only allow admin users to create/edit/delete data,\n    but allow read-only access to any authenticated user.\n    \"\"\"\n    def has_permission(self, request, view):\n        if request.method in ['POST'] and not request.user.is_staff:\n            return False\n        return True\nclass IsAdminUser(permissions.BasePermission):",
+        "detail": "2-sol.board.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminUser",
+        "kind": 6,
+        "importPath": "2-sol.board.permissions",
+        "description": "2-sol.board.permissions",
+        "peekOfCode": "class IsAdminUser(permissions.BasePermission):\n    def has_permission(self, request, view):\n        return bool(request.user and request.user.is_staff)",
+        "detail": "2-sol.board.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "CategorySerializer",
+        "kind": 6,
+        "importPath": "2-sol.board.serializers",
+        "description": "2-sol.board.serializers",
+        "peekOfCode": "class CategorySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Category\n        fields = '__all__'\nclass SubCategorySerializer(serializers.ModelSerializer):\n    category = CategorySerializer()\n    class Meta:\n        model = SubCategory\n        fields = '__all__'\nclass AppSerializer(serializers.ModelSerializer):",
+        "detail": "2-sol.board.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SubCategorySerializer",
+        "kind": 6,
+        "importPath": "2-sol.board.serializers",
+        "description": "2-sol.board.serializers",
+        "peekOfCode": "class SubCategorySerializer(serializers.ModelSerializer):\n    category = CategorySerializer()\n    class Meta:\n        model = SubCategory\n        fields = '__all__'\nclass AppSerializer(serializers.ModelSerializer):\n    category = CategorySerializer()\n    subcategory = SubCategorySerializer()\n    class Meta:\n        model = App",
+        "detail": "2-sol.board.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AppSerializer",
+        "kind": 6,
+        "importPath": "2-sol.board.serializers",
+        "description": "2-sol.board.serializers",
+        "peekOfCode": "class AppSerializer(serializers.ModelSerializer):\n    category = CategorySerializer()\n    subcategory = SubCategorySerializer()\n    class Meta:\n        model = App\n        fields = '__all__'\nclass ProfileSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Profile\n        fields = '__all__'",
+        "detail": "2-sol.board.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileSerializer",
+        "kind": 6,
+        "importPath": "2-sol.board.serializers",
+        "description": "2-sol.board.serializers",
+        "peekOfCode": "class ProfileSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Profile\n        fields = '__all__'\nclass TotalPointsSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = TotalPoints\n        fields = '__all__'\nclass TaskSerializer(serializers.ModelSerializer):\n    app = AppSerializer()",
+        "detail": "2-sol.board.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TotalPointsSerializer",
+        "kind": 6,
+        "importPath": "2-sol.board.serializers",
+        "description": "2-sol.board.serializers",
+        "peekOfCode": "class TotalPointsSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = TotalPoints\n        fields = '__all__'\nclass TaskSerializer(serializers.ModelSerializer):\n    app = AppSerializer()\n    class Meta:\n        model = Task\n        fields = '__all__'\nclass ScreenshotSerializer(serializers.ModelSerializer):",
+        "detail": "2-sol.board.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TaskSerializer",
+        "kind": 6,
+        "importPath": "2-sol.board.serializers",
+        "description": "2-sol.board.serializers",
+        "peekOfCode": "class TaskSerializer(serializers.ModelSerializer):\n    app = AppSerializer()\n    class Meta:\n        model = Task\n        fields = '__all__'\nclass ScreenshotSerializer(serializers.ModelSerializer):\n    task = TaskSerializer()\n    class Meta:\n        model = Screenshot\n        fields = '__all__'",
+        "detail": "2-sol.board.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ScreenshotSerializer",
+        "kind": 6,
+        "importPath": "2-sol.board.serializers",
+        "description": "2-sol.board.serializers",
+        "peekOfCode": "class ScreenshotSerializer(serializers.ModelSerializer):\n    task = TaskSerializer()\n    class Meta:\n        model = Screenshot\n        fields = '__all__'",
+        "detail": "2-sol.board.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "2-sol.board.urls",
+        "description": "2-sol.board.urls",
+        "peekOfCode": "urlpatterns = [\n    # homepage\n    path('', login_required(home), name='home'),\n    # add app admin-only\n    path('add-app/', add_app, name='add_app'),\n    # apps URLS\n    path('apps/', login_required(AppListView.as_view()), name='apps'),\n    path('app/<int:app_id>/', app_detail, name='app_detail'),\n    # tasks and points URLS\n    path('completed-tasks/', completed_tasks, name='completed_tasks'),",
+        "detail": "2-sol.board.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CustomLogoutView",
+        "kind": 6,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "class CustomLogoutView(LogoutView):\n    next_page = reverse_lazy('home')\n@permission_classes([IsAuthenticated])\ndef home(request):\n    \"\"\"\n    List of all apps and user's total points.\n    \"\"\"\n    apps = App.objects.all()\n    try:\n        total_points = TotalPoints.objects.get(profile=request.user.profile)",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "AppListView",
+        "kind": 6,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "class AppListView(ListView):\n    \"\"\"\n    List of apps\n    \"\"\"\n    model = App\n    template_name = 'home.html'\n@permission_classes([IsAuthenticated])\ndef total_points(request):\n    \"\"\"\n    Total points earned by a user.",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "def home(request):\n    \"\"\"\n    List of all apps and user's total points.\n    \"\"\"\n    apps = App.objects.all()\n    try:\n        total_points = TotalPoints.objects.get(profile=request.user.profile)\n    except TotalPoints.DoesNotExist:\n        total_points = None\n    return render(request, 'home.html', {'apps': apps, 'total_points': total_points, 'username': request.user.username})",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_detail",
+        "kind": 2,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "def app_detail(request, app_id):\n    \"\"\"\n    Upload screenshot for a particular app\n    \"\"\"\n    app = get_object_or_404(App, id=app_id)\n    task, created = Task.objects.get_or_create(\n        user=request.user, app=app, points=0)\n    screenshot_form = ScreenshotForm(\n        request.POST or None, request.FILES or None)\n    if request.method == 'POST':",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "completed_tasks",
+        "kind": 2,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "def completed_tasks(request):\n    \"\"\"\n    List of tasks completed by a user\n    \"\"\"\n    completed_tasks = Task.objects.filter(\n        user=request.user, status=Task.COMPLETED)\n    return render(request, 'completed_tasks.html', {'completed_tasks': completed_tasks})\n@permission_classes([IsAuthenticated])\ndef profile(request):\n    \"\"\"",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "def profile(request):\n    \"\"\"\n    Updates user's profile\n    \"\"\"\n    if request.method == 'POST':\n        form = ProfileUpdateForm(request.POST, instance=request.user.profile)\n        if form.is_valid():\n            form.save()\n            messages.success(request, 'Profile updated successfully.')\n            return redirect('profile')",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_profile",
+        "kind": 2,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "def update_profile(request):\n    \"\"\"\n    Update a user's profile\n    \"\"\"\n    if request.method == 'POST':\n        form = ProfileUpdateForm(request.POST, instance=request.user.profile)\n        if form.is_valid():\n            form.save()\n            messages.success(request, 'Profile updated successfully.')\n            return redirect('profile')",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_app",
+        "kind": 2,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "def add_app(request):\n    \"\"\"\n    only admins can add apps\n    \"\"\"\n    if request.method == 'POST':\n        # code to add a new app\n        return redirect('home')\n    return render(request, 'add_app.html')\n@permission_classes([IsAuthenticated])\nclass AppListView(ListView):",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "total_points",
+        "kind": 2,
+        "importPath": "2-sol.board.views",
+        "description": "2-sol.board.views",
+        "peekOfCode": "def total_points(request):\n    \"\"\"\n    Total points earned by a user.\n    \"\"\"\n    total_points, created = TotalPoints.objects.get_or_create(\n        profile=request.user.profile)\n    return render(request, 'total_points.html', {'total_points': total_points})",
+        "detail": "2-sol.board.views",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.activate_this",
+        "description": "2-sol.reward-venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "2-sol.reward-venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.activate_this",
+        "description": "2-sol.reward-venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "2-sol.reward-venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.activate_this",
+        "description": "2-sol.reward-venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "2-sol.reward-venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.activate_this",
+        "description": "2-sol.reward-venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "2-sol.reward-venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.activate_this",
+        "description": "2-sol.reward-venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "2-sol.reward-venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.activate_this",
+        "description": "2-sol.reward-venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "2-sol.reward-venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.activate_this",
+        "description": "2-sol.reward-venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "2-sol.reward-venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.activate_this",
+        "description": "2-sol.reward-venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "2-sol.reward-venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "2-sol.reward-venv.bin.jp",
+        "description": "2-sol.reward-venv.bin.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": "2-sol.reward-venv.bin.jp",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2html",
+        "description": "2-sol.reward-venv.bin.rst2html",
+        "peekOfCode": "description = ('Generates (X)HTML documents from standalone reStructuredText '\n               'sources.  ' + default_description)\npublish_cmdline(writer_name='html', description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2html",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2html4",
+        "description": "2-sol.reward-venv.bin.rst2html4",
+        "peekOfCode": "description = ('Generates (X)HTML documents from standalone reStructuredText '\n               'sources.  ' + default_description)\npublish_cmdline(writer_name='html4', description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2html4",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2html5",
+        "description": "2-sol.reward-venv.bin.rst2html5",
+        "peekOfCode": "description = ('Generates HTML5 documents from standalone '\n               'reStructuredText sources.\\n'\n               + default_description)\npublish_cmdline(writer_name='html5', description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2html5",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2latex",
+        "description": "2-sol.reward-venv.bin.rst2latex",
+        "peekOfCode": "description = ('Generates LaTeX documents from standalone reStructuredText '\n               'sources. '\n               'Reads from <source> (default is stdin) and writes to '\n               '<destination> (default is stdout).  See '\n               '<https://docutils.sourceforge.io/docs/user/latex.html> for '\n               'the full reference.')\npublish_cmdline(writer_name='latex', description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2latex",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2man",
+        "description": "2-sol.reward-venv.bin.rst2man",
+        "peekOfCode": "description = (\"Generates plain unix manual documents.  \"\n               + default_description)\npublish_cmdline(writer=manpage.Writer(), description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2man",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2odt",
+        "description": "2-sol.reward-venv.bin.rst2odt",
+        "peekOfCode": "description = ('Generates OpenDocument/OpenOffice/ODF documents from '\n               'standalone reStructuredText sources.  ' + default_description)\nwriter = Writer()\nreader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n                                   description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "writer",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2odt",
+        "description": "2-sol.reward-venv.bin.rst2odt",
+        "peekOfCode": "writer = Writer()\nreader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n                                   description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "reader",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2odt",
+        "description": "2-sol.reward-venv.bin.rst2odt",
+        "peekOfCode": "reader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n                                   description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2odt",
+        "description": "2-sol.reward-venv.bin.rst2odt",
+        "peekOfCode": "output = publish_cmdline_to_binary(reader=reader, writer=writer,\n                                   description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "prepstyle",
+        "kind": 2,
+        "importPath": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "description": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "peekOfCode": "def prepstyle(filename):\n    zin = zipfile.ZipFile(filename)\n    styles = zin.read(\"styles.xml\")\n    root = etree.fromstring(styles)\n    for el in root.xpath(\"//style:page-layout-properties\",\n                         namespaces=NAMESPACES):\n        for attr in el.attrib:\n            if attr.startswith(\"{%s}\" % NAMESPACES[\"fo\"]):\n                del el.attrib[attr]\n    tempname = mkstemp()",
+        "detail": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "description": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "peekOfCode": "def main():\n    args = sys.argv[1:]\n    if len(args) != 1 or args[0] in ('-h', '--help'):\n        print(__doc__, file=sys.stderr)\n        print(\"Usage: %s STYLE_FILE.odt\\n\" % sys.argv[0], file=sys.stderr)\n        sys.exit(1)\n    filename = args[0]\n    prepstyle(filename)\nif __name__ == '__main__':\n    main()",
+        "detail": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "NAMESPACES",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "description": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "peekOfCode": "NAMESPACES = {\n    \"style\": \"urn:oasis:names:tc:opendocument:xmlns:style:1.0\",\n    \"fo\": \"urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0\"\n}\ndef prepstyle(filename):\n    zin = zipfile.ZipFile(filename)\n    styles = zin.read(\"styles.xml\")\n    root = etree.fromstring(styles)\n    for el in root.xpath(\"//style:page-layout-properties\",\n                         namespaces=NAMESPACES):",
+        "detail": "2-sol.reward-venv.bin.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2pseudoxml",
+        "description": "2-sol.reward-venv.bin.rst2pseudoxml",
+        "peekOfCode": "description = ('Generates pseudo-XML from standalone reStructuredText '\n               'sources (for testing purposes).  ' + default_description)\npublish_cmdline(description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2pseudoxml",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2s5",
+        "description": "2-sol.reward-venv.bin.rst2s5",
+        "peekOfCode": "description = ('Generates S5 (X)HTML slideshow documents from standalone '\n               'reStructuredText sources.  ' + default_description)\npublish_cmdline(writer_name='s5', description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2s5",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2xetex",
+        "description": "2-sol.reward-venv.bin.rst2xetex",
+        "peekOfCode": "description = ('Generates LaTeX documents from standalone reStructuredText '\n               'sources for compilation with the Unicode-aware TeX variants '\n               'XeLaTeX or LuaLaTeX. '\n               'Reads from <source> (default is stdin) and writes to '\n               '<destination> (default is stdout).  See '\n               '<https://docutils.sourceforge.io/docs/user/latex.html> for '\n               'the full reference.')\npublish_cmdline(writer_name='xetex', description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2xetex",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rst2xml",
+        "description": "2-sol.reward-venv.bin.rst2xml",
+        "peekOfCode": "description = ('Generates Docutils-native XML from standalone '\n               'reStructuredText sources.  ' + default_description)\npublish_cmdline(writer_name='xml', description=description)",
+        "detail": "2-sol.reward-venv.bin.rst2xml",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.rstpep2html",
+        "description": "2-sol.reward-venv.bin.rstpep2html",
+        "peekOfCode": "description = ('Generates (X)HTML from reStructuredText-format PEP files.  '\n               + default_description)\npublish_cmdline(reader_name='pep', writer_name='pep_html',\n                description=description)",
+        "detail": "2-sol.reward-venv.bin.rstpep2html",
+        "documentation": {}
+    },
+    {
+        "label": "VAction",
+        "kind": 6,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "class VAction(argparse.Action):\n    def __call__(self, parser, args, values, option_string=None):\n        if values is None:\n            values = \"1\"\n        try:\n            values = int(values)\n        except ValueError:\n            values = values.count(\"v\") + 1\n        setattr(args, self.dest, values)\ndef parse_args():",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "RawInput",
+        "kind": 6,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "class RawInput:\n    def raw_input(self, prompt):\n        if six.PY3:\n            line = input(prompt)\n        else:\n            line = raw_input(prompt)\n        if ENCODING and ENCODING != \"utf-8\" and not isinstance(line, six.text_type):\n            line = line.decode(ENCODING).encode(\"utf-8\")\n        elif isinstance(line, six.text_type):\n            line = line.encode(\"utf-8\")",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "InteractiveConsole",
+        "kind": 6,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "class InteractiveConsole(RawInput, code.InteractiveConsole):\n    def write(self, data):\n        sys.stdout.write(\"\\033[2K\\033[E\")\n        # sys.stdout.write(\"\\n\")\n        sys.stdout.write(\"\\033[34m< \" + data + \"\\033[39m\")\n        sys.stdout.write(\"\\n> \")\n        sys.stdout.flush()\n    def read(self):\n        return self.raw_input(\"> \")\nclass NonInteractive(RawInput):",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "NonInteractive",
+        "kind": 6,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "class NonInteractive(RawInput):\n    def write(self, data):\n        sys.stdout.write(data)\n        sys.stdout.write(\"\\n\")\n        sys.stdout.flush()\n    def read(self):\n        return self.raw_input(\"\")\ndef main():\n    start_time = time.time()\n    args = parse_args()",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "get_encoding",
+        "kind": 2,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "def get_encoding():\n    encoding = getattr(sys.stdin, \"encoding\", \"\")\n    if not encoding:\n        return \"utf-8\"\n    else:\n        return encoding.lower()\nOPCODE_DATA = (websocket.ABNF.OPCODE_TEXT, websocket.ABNF.OPCODE_BINARY)\nENCODING = get_encoding()\nclass VAction(argparse.Action):\n    def __call__(self, parser, args, values, option_string=None):",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(description=\"WebSocket Simple Dump Tool\")\n    parser.add_argument(\"url\", metavar=\"ws_url\",\n                        help=\"websocket url. ex. ws://echo.websocket.org/\")\n    parser.add_argument(\"-p\", \"--proxy\",\n                        help=\"proxy url. ex. http://127.0.0.1:8080\")\n    parser.add_argument(\"-v\", \"--verbose\", default=0, nargs='?', action=VAction,\n                        dest=\"verbose\",\n                        help=\"set verbose mode. If set to 1, show opcode. \"\n                        \"If set to 2, enable to trace  websocket module\")",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "def main():\n    start_time = time.time()\n    args = parse_args()\n    if args.verbose > 1:\n        websocket.enableTrace(True)\n    options = {}\n    if args.proxy:\n        p = urlparse(args.proxy)\n        options[\"http_proxy_host\"] = p.hostname\n        options[\"http_proxy_port\"] = p.port",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "OPCODE_DATA",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "OPCODE_DATA = (websocket.ABNF.OPCODE_TEXT, websocket.ABNF.OPCODE_BINARY)\nENCODING = get_encoding()\nclass VAction(argparse.Action):\n    def __call__(self, parser, args, values, option_string=None):\n        if values is None:\n            values = \"1\"\n        try:\n            values = int(values)\n        except ValueError:\n            values = values.count(\"v\") + 1",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODING",
+        "kind": 5,
+        "importPath": "2-sol.reward-venv.bin.wsdump",
+        "description": "2-sol.reward-venv.bin.wsdump",
+        "peekOfCode": "ENCODING = get_encoding()\nclass VAction(argparse.Action):\n    def __call__(self, parser, args, values, option_string=None):\n        if values is None:\n            values = \"1\"\n        try:\n            values = int(values)\n        except ValueError:\n            values = values.count(\"v\") + 1\n        setattr(args, self.dest, values)",
+        "detail": "2-sol.reward-venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.asgi",
+        "description": "2-sol.rewardo.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "2-sol.rewardo.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "env = environ.Env(\n    # set casting, default value\n    DEBUG=(bool, False)\n)\n# Build paths inside the project like this: BASE_DIR / 'subdir'.\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Take environment variables from .env file\nenviron.Env.read_env(os.path.join(BASE_DIR, '.env'))\n# set STAGE based on environment variable\nSTAGE = env('STAGE')",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Take environment variables from .env file\nenviron.Env.read_env(os.path.join(BASE_DIR, '.env'))\n# set STAGE based on environment variable\nSTAGE = env('STAGE')\n# Determine database settings based on STAGE\nif STAGE == 'production':\n    DATABASES = {\n        'default': {\n            'ENGINE': env('PROD_DB_ENGINE'),",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "STAGE = env('STAGE')\n# Determine database settings based on STAGE\nif STAGE == 'production':\n    DATABASES = {\n        'default': {\n            'ENGINE': env('PROD_DB_ENGINE'),\n            'NAME': env('PROD_DB_NAME'),\n            'USER': env('PROD_DB_USER'),\n            'PASSWORD': env('PROD_DB_PASSWORD'),\n            'HOST': env('PROD_DB_HOST'),",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'jet.dashboard',\n    'jet',\n    'allauth',\n    'allauth.account',\n    'allauth.socialaccount',\n    'django_extensions',\n    'whitenoise',\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "ROOT_URLCONF = 'rewardo.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates'),\n                 os.path.join(BASE_DIR, 'board', 'templates', 'board'),\n                 ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates'),\n                 os.path.join(BASE_DIR, 'board', 'templates', 'board'),\n                 ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'rewardo.wsgi.application'\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static'),\n    os.path.join(BASE_DIR, 'static/js'),",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static'),\n    os.path.join(BASE_DIR, 'static/js'),\n    os.path.join(BASE_DIR, 'static/css'),",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static'),\n    os.path.join(BASE_DIR, 'static/js'),\n    os.path.join(BASE_DIR, 'static/css'),\n]",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static'),\n    os.path.join(BASE_DIR, 'static/js'),\n    os.path.join(BASE_DIR, 'static/css'),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static'),\n    os.path.join(BASE_DIR, 'static/js'),\n    os.path.join(BASE_DIR, 'static/css'),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static'),\n    os.path.join(BASE_DIR, 'static/js'),\n    os.path.join(BASE_DIR, 'static/css'),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Jet Dashboard\nX_FRAME_OPTIONS = 'SAMEORIGIN'\n# Authentication backend",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_STORAGE",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Jet Dashboard\nX_FRAME_OPTIONS = 'SAMEORIGIN'\n# Authentication backend\nAUTHENTICATION_BACKENDS = [",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Jet Dashboard\nX_FRAME_OPTIONS = 'SAMEORIGIN'\n# Authentication backend\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Jet Dashboard\nX_FRAME_OPTIONS = 'SAMEORIGIN'\n# Authentication backend\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Jet Dashboard\nX_FRAME_OPTIONS = 'SAMEORIGIN'\n# Authentication backend\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',\n]\nSITE_ID = 1\nLOGIN_REDIRECT_URL = '/'",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "X_FRAME_OPTIONS",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "X_FRAME_OPTIONS = 'SAMEORIGIN'\n# Authentication backend\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',\n]\nSITE_ID = 1\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/'\nACCOUNT_LOGOUT_REDIRECT_URL = 'account_login'",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHENTICATION_BACKENDS",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "AUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',\n]\nSITE_ID = 1\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/'\nACCOUNT_LOGOUT_REDIRECT_URL = 'account_login'\n# email backend\n# outputs email message to console",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SITE_ID",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "SITE_ID = 1\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/'\nACCOUNT_LOGOUT_REDIRECT_URL = 'account_login'\n# email backend\n# outputs email message to console\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# JWT\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/'\nACCOUNT_LOGOUT_REDIRECT_URL = 'account_login'\n# email backend\n# outputs email message to console\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# JWT\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/'\nACCOUNT_LOGOUT_REDIRECT_URL = 'account_login'\n# email backend\n# outputs email message to console\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# JWT\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ACCOUNT_LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "ACCOUNT_LOGOUT_REDIRECT_URL = 'account_login'\n# email backend\n# outputs email message to console\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# JWT\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n    'DEFAULT_SCHEMA_CLASS': (",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# JWT\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n    'DEFAULT_SCHEMA_CLASS': (\n        'rest_framework.schemas.coreapi.AutoSchema',\n    ),\n    # 'DEFAULT_PERMISSION_CLASSES': (",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n    'DEFAULT_SCHEMA_CLASS': (\n        'rest_framework.schemas.coreapi.AutoSchema',\n    ),\n    # 'DEFAULT_PERMISSION_CLASSES': (\n    #     'rest_framework.permissions.IsAuthenticated',\n    # ),",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'AUTH_HEADER_TYPES': ('JWT',),\n}\n# Enable the toolbar only for development\nif DEBUG:\n    MIDDLEWARE += [\n        'debug_toolbar.middleware.DebugToolbarMiddleware',\n    ]\n    INTERNAL_IPS = [\n        '127.0.0.1',",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#FORCE_SCRIPT_NAME",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.settings",
+        "description": "2-sol.rewardo.settings",
+        "peekOfCode": "#FORCE_SCRIPT_NAME = '/api/v1'\nCSRF_COOKIE_SECURE=True",
+        "detail": "2-sol.rewardo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.urls",
+        "description": "2-sol.rewardo.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nschema_view = get_schema_view(\n    openapi.Info(\n        title='Reward Service API',\n        default_version='v1',\n        description='API for rewarding users with points for completing tasks',\n    ),\n    public=True,\n    permission_classes=(permissions.AllowAny,),\n    # patterns=[",
+        "detail": "2-sol.rewardo.urls",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.urls",
+        "description": "2-sol.rewardo.urls",
+        "peekOfCode": "schema_view = get_schema_view(\n    openapi.Info(\n        title='Reward Service API',\n        default_version='v1',\n        description='API for rewarding users with points for completing tasks',\n    ),\n    public=True,\n    permission_classes=(permissions.AllowAny,),\n    # patterns=[\n    #     path('api/', include(router.urls)),",
+        "detail": "2-sol.rewardo.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.urls",
+        "description": "2-sol.rewardo.urls",
+        "peekOfCode": "urlpatterns = [\n    # Django JET URLS\n    path('jet/', include('jet.urls', 'jet')),\n    # Django JET dashboard URLS\n    path('jet/dashboard/', include('jet.dashboard.urls',\n         'jet-dashboard')),\n    path('api-auth/', include('rest_framework.urls')),\n    # all-auth accounts URLs\n    path('accounts/', include('allauth.urls')),\n    path('admin/', admin.site.urls),",
+        "detail": "2-sol.rewardo.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "2-sol.rewardo.wsgi",
+        "description": "2-sol.rewardo.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "2-sol.rewardo.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "2-sol.manage",
+        "description": "2-sol.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'rewardo.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "2-sol.manage",
+        "documentation": {}
+    }
+]

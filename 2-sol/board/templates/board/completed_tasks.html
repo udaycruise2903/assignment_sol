@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Completed Tasks</h1>
+{% if completed_tasks %}
+<ul>
+    {% for task in completed_tasks %}
+    <li>{{ task.app.name }} - {{ task.app.points }} points</li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>No completed tasks.</p>
+{% endif %}
+{% endblock %}

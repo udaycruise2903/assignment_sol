@@ -1,0 +1,9 @@
+.env
+/db.sqlite3
+/task_screenshots/*
+.vscode/*
+/staticfiles/*
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

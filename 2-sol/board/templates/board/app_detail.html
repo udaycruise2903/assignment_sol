@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block content %}
+<h3>{{ app.name }}</h3>
+<img src="{{ app.image.url }}" alt="{{ app.name }} Image">
+<p>Points: {{ app.points }}</p>
+<p>
+    Link:
+    <a href="{{ app.link }}">{{ app.link }}</a>
+</p>
+<p>
+    Category:
+    <a href="{{ app.category }}">{{ app.category }}</a>
+</p>
+<p>
+    Sub Category:
+    <a href="{{ app.sub_category }}">{{ app.sub_category }}</a>
+</p>
+{% if task.status == task.PENDING %}
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+  {{ screenshot_form.as_p }}
+    <button type="submit">Submit Screenshot</button>
+</form>
+<script src="{% static 'js/screenshot.js' %}"></script>
+{% else %}
+<p>You have already submitted a screenshot for this task.</p>
+{% endif %}
+
+
+{% endblock %}
