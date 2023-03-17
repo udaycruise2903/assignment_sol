@@ -7,7 +7,6 @@ error_string = {"orders": [{"id": 1}, {"id": 2}, {"id": 3}, {"id": 4}, {"id": 5}
 pattern = r'\d+'
 
 
-
 result = re.findall(pattern, str(error_string))
 print(result)
 

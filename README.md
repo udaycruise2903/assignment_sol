@@ -1,9 +1,13 @@
-## Rewardo - Earn points by downloading apps
+## Rewardo - Earn points by downloading apps 
 
-Stack - Django, Postgres, DRF, JWT, Bootstrap, Swagger, uwsgi, Nginx, AWS EC2
+<br>
 
-Homepage - [Rewardo](http://13.233.96.71/accounts/login/?next=/)
+[code](./2-sol) | Homepage - [Rewardo](http://13.233.96.71/accounts/login/?next=/) |
 Admin - [Admin](http://13.233.96.71/admin/login/?next=/admin/)
+
+ Stack - Django, Postgres, DRF, JWT, Bootstrap, Swagger, uwsgi, Nginx, AWS EC2
+
+<br>
 
 BRIEF - A list of apps are available to user in home page after logging in.
 user clicks on an app and can upload a screenshot of downloaded app.
